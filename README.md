@@ -2,8 +2,6 @@
 
 This project estimates the rotation of a 3D cuboidal box by analyzing a series of depth images provided in a ROS 2 bag file. The implemented algorithm calculates the orientation and visible area of the box's largest face in each frame and then determines the overall axis of rotation.
 
-This solution was developed for the Perception Task by 10xConstruction.
-
 ---
 
 ## 📋 Table of Contents
